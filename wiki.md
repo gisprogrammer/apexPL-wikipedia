@@ -16,7 +16,7 @@
  | www                 = http://apex.oracle.com
 }}
 =Oracle Application Express= 
-(Oracle APEX, w poprzednich wersjach Oracle HTML-DB) – udostępniane przez firmę [[Oracle Corporation|Oracle]] darmowe środowisko typu [[Low-code_development_platforms|Low-code development]] do tworzenia [[Aplikacja internetowa|aplikacji internetowych]] w oparciu o [[baza danych|bazę danych]] Oracle. Środowisko dostępne jest bezpłatnie w ramach [[Licencja oprogramowania|licencji]] bazy danych Oracle.
+(Oracle APEX, w poprzednich wersjach Oracle HTML-DB) – udostępniane przez firmę [[Oracle Corporation|Oracle]] darmowe środowisko typu [[Low-code_development_platforms|Low-code development]] do tworzenia [[Aplikacja internetowa|aplikacji internetowych]] w oparciu o [[baza danych|bazę danych]] Oracle począwszy od wersji 9.2. Środowisko dostępne jest bezpłatnie w ramach [[Licencja oprogramowania|licencji]] bazy danych Oracle.
 
 Dzięki wykorzystaniu Oracle APEX możliwe jest tworzenie aplikacji internetowych bez znajomości języków [[HTML]], [[JavaScript]] oraz [[język programowania|języków]] i [[framework]]ów powszechnie wykorzystywanych do programowania logiki programu ([[PHP]], [[Java Platform, Enterprise Edition|Java EE]], [[.NET]], itp.). Application Express instalowany jest na bazie danych Oracle (także darmowej Oracle XE) zapewniając automatyczne połączenie pomiędzy aplikacją i bazą. Aplikacje publikowane są na wbudowanym w bazę [[serwer aplikacji|serwerze]] [[Apache HTTP Server|Apache]] lub serwerze użytkownika (oficjalnie wspierane są [[Oracle WebLogic|Weblogic]], [[Apache Tomcat|Tomcat]] i [[GlassFish|Glassfish]]) z zainstalowanym komponentem [[Oracle REST Database Services]].
 
@@ -37,22 +37,26 @@ Główne narzędzie do wizualnego tworzenia, rozwoju, monitorowania użycia i pu
 Klient SQL umożliwiający wszelkie operacje na danych zawartych w bazie, tworzenie i modyfikację struktur danych, oraz programowanie w języku pl/sql.
 
 ===Quick SQL===
-Generator kodu SQl, oraz pl/sql umożliwiający szybkie tworzenie struktur danych, oraz obsługujących je API zgodnie z zasadami najlepszych praktyk programistycznych.
+Generator kodu SQL, oraz pl/sql umożliwiający szybkie tworzenie struktur danych, oraz obsługujących je API zgodnie z zasadami najlepszych praktyk programistycznych.
 
 ===RESTful Service===
 Wizualny interfejs do konfigurowania web-serwisów RESTowych umożliwiających udostępnianie danych poprzez sieć.
 
 ==TeamDevelopment==
-Zestaw wbudowanych narzędzi umozliwiających zarządzanie cyklem rozwoju aplikacji, pracą programistów, śledzeniem błędów i kamieni milowych. Użytkownicy aplikacji mogą również przekazywać w czasie rzeczywistym informacje zwrotne, które następnie można zakwalifikować do czynności do zrobienia, błędów lub funkcji, oraz przypisać je do konkretnego programisty. 
+Zestaw wbudowanych narzędzi umożliwiających zarządzanie cyklem rozwoju aplikacji, pracą programistów, śledzeniem błędów i kamieni milowych. Użytkownicy aplikacji mogą również przekazywać w czasie rzeczywistym informacje zwrotne, które następnie można zakwalifikować do czynności do zrobienia, błędów lub funkcji, oraz przypisać je do konkretnego programisty. 
 
 ==Packaged Apps==
-Zestaw bezpłatych aplikacji gotowych do instalacji i bezpłatnego użytku. Wśród nich znajdują się aplikacje demonstracyjne, pokazujące możliwości środowiska APEX oraz pełnoprawne aplikacje biznesowe, które z powodzeniem mogą zostać wykorzystane w firmie.
+Zestaw bezpłatnych aplikacji gotowych do instalacji i bezpłatnego użytku. Wśród nich znajdują się aplikacje demonstracyjne, pokazujące możliwości środowiska APEX oraz pełnoprawne aplikacje biznesowe, które z powodzeniem mogą zostać wykorzystane w firmie.
 
 == Linki zewnętrzne ==
 * [http://apex.oracle.com Strona domowa Oracle Application Express] {{lang|en}}
 * [http://apex.world Strona społeczności Oracle APEX na świecie] {{lang|en}}
 * [http://translate-apex.com Strona społeczności Oracle APEX zawierająca tłumaczenia na inne języki (w tym j. polski)] {{lang|en}}
 * [http://forumapex.dbe.pl Polskie forum Oracle APEX] {{lang|pl}}
+
+==Zobacz także==
+*[[Oracle SQL Developer]]
+*[[Oracle Database]]
 
 [[Kategoria:Systemy baz danych]]
 [[Kategoria:Narzędzia wspomagające tworzenie oprogramowania]]
