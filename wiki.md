@@ -15,7 +15,8 @@
  | commons             = 
  | www                 = http://apex.oracle.com
 }}
-'''Oracle Application Express''' (Oracle APEX, w poprzednich wersjach Oracle HTML-DB) – udostępniane przez firmę [[Oracle Corporation|Oracle]] darmowe środowisko do tworzenia [[Aplikacja internetowa|aplikacji internetowych]] w oparciu o [[baza danych|bazę danych]] Oracle począwszy od wersji 9.2. Środowisko dostępne jest bezpłatnie w ramach [[Licencja oprogramowania|licencji]] bazy danych Oracle.
+=Oracle Application Express= 
+(Oracle APEX, w poprzednich wersjach Oracle HTML-DB) – udostępniane przez firmę [[Oracle Corporation|Oracle]] darmowe środowisko do tworzenia [[Aplikacja internetowa|aplikacji internetowych]] w oparciu o [[baza danych|bazę danych]] Oracle począwszy od wersji 9.2. Środowisko dostępne jest bezpłatnie w ramach [[Licencja oprogramowania|licencji]] bazy danych Oracle.
 
 Dzięki wykorzystaniu Oracle APEX możliwe jest tworzenie aplikacji internetowych bez znajomości języków [[HTML]], [[JavaScript]] oraz [[język programowania|języków]] i [[framework]]ów powszechnie wykorzystywanych do programowania logiki programu ([[PHP]], [[Java Platform, Enterprise Edition|Java EE]], [[.NET]], itp.). Application Express instalowany jest na bazie danych Oracle (także darmowej Oracle XE) zapewniając automatyczne połączenie pomiędzy aplikacją i bazą. Aplikacje publikowane są na wbudowanym w bazę [[serwer aplikacji|serwerze]] [[Apache HTTP Server|Apache]] lub serwerze użytkownika (oficjalnie wspierane są [[Oracle WebLogic|Weblogic]], [[Apache Tomcat|Tomcat]] i [[GlassFish|Glassfish]]) z zainstalowanym komponentem [[Oracle REST Database Services]].
 
@@ -29,23 +30,22 @@ Wersja (5.0) została rozbudowana m.in o nowy Page Designer, ulepszone interakty
 
 Wraz z nową wersją (5.2) została zmieniona numeracja na 18.1, oznaczającą rok i numer kwartału wydania. Zmiana ta związana jest z nową nomenklaturą numeracji Oracle.
 
-
-##App Builder
+==App Builder==
 Główne narzędzie do wizualnego tworzenia, rozwoju, monitorowania użycia i publikacji aplikacji. Poza utworzeniem czystej aplikacji, możliwe jest także przygotowanie gotowej aplikacji zawierającej szereg najczęściej wykorzystywanych funkcjonalności za pomocą wbudowanego kreatora (blueprint). Możliwe jest również skorzystanie z kreatora tworzącego aplikację na podstawie istniejących danych zawartych w plikach csv lub xls.
 
-##SQL Workshop
+==SQL Workshop==
 Klient SQL umożliwiający wszelkie operacje na danych zawartych w bazie, tworzenie i modyfikację struktur danych, oraz programowanie w języku pl/sql.
 
-##Quick SQL
+===Quick SQL===
 Generator kodu SQl, oraz pl/sql umożliwiający szybkie tworzenie struktur danych, oraz obsługujących je API zgodnie z zasadami najlepszych praktyk programistycznych.
 
-##RESTful Service
+===RESTful Service===
 Wizualny interfejs do konfigurowania web-serwisów RESTowych umożliwiających udostępnianie danych poprzez sieć.
 
-##TeamDevelopment
+==TeamDevelopment==
 Zestaw wbudowanych narzędzi umozliwiających zarządzanie rozwojem aplikacji, pracą programistów, śledzeniem błędów i kamieni milowych. Użytkownicy aplikacji mogą również przekazywać w czasie rzeczywistym informacje zwrotne, które następnie można zakwalifikować do czynności do zrobienia, błędów lub funkcji.
 
-##Packaged Apps
+==Packaged Apps==
 Zestaw bezpłatych aplikacji gotowych do instalacji i bezpłatnego użytku. Wśród nich znajdują się aplikacje demonstracyjne, pokazujące możliwości środowiska APEX oraz pełnoprawne aplikacje biznesowe, które z powodzeniem mogą zostać wykorzystane w firmie.
 
 == Linki zewnętrzne ==
