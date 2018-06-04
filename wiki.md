@@ -31,7 +31,7 @@ Wersja (5.0) została rozbudowana m.in o nowy Page Designer, ulepszone interakty
 Wraz z nową wersją (5.2) została zmieniona numeracja na 18.1, oznaczającą rok i numer kwartału wydania. Zmiana ta związana jest z nową nomenklaturą numeracji Oracle.
 
 ==App Builder==
-Główne narzędzie do wizualnego tworzenia, rozwoju, monitorowania użycia i publikacji aplikacji. Poza utworzeniem czystej aplikacji, możliwe jest także przygotowanie gotowej aplikacji zawierającej szereg najczęściej wykorzystywanych funkcjonalności za pomocą wbudowanego kreatora (blueprint). Możliwe jest również skorzystanie z kreatora tworzącego aplikację na podstawie istniejących danych zawartych w plikach csv lub xls.
+Główne narzędzie do wizualnego tworzenia, rozwoju, monitorowania użycia i publikacji aplikacji. Umożliwia także przygotowanie gotowego szablonu aplikacji, zawierającego szereg najczęściej wykorzystywanych funkcjonalności, za pomocą wbudowanego kreatora (blueprint). Możliwe jest również skorzystanie z kreatora tworzącego aplikację na podstawie istniejących danych zawartych w plikach csv lub xls.
 
 ==SQL Workshop==
 Klient SQL umożliwiający wszelkie operacje na danych zawartych w bazie, tworzenie i modyfikację struktur danych, oraz programowanie w języku pl/sql.
@@ -43,7 +43,7 @@ Generator kodu SQl, oraz pl/sql umożliwiający szybkie tworzenie struktur danyc
 Wizualny interfejs do konfigurowania web-serwisów RESTowych umożliwiających udostępnianie danych poprzez sieć.
 
 ==TeamDevelopment==
-Zestaw wbudowanych narzędzi umozliwiających zarządzanie rozwojem aplikacji, pracą programistów, śledzeniem błędów i kamieni milowych. Użytkownicy aplikacji mogą również przekazywać w czasie rzeczywistym informacje zwrotne, które następnie można zakwalifikować do czynności do zrobienia, błędów lub funkcji.
+Zestaw wbudowanych narzędzi umozliwiających zarządzanie cyklem rozwoju aplikacji, pracą programistów, śledzeniem błędów i kamieni milowych. Użytkownicy aplikacji mogą również przekazywać w czasie rzeczywistym informacje zwrotne, które następnie można zakwalifikować do czynności do zrobienia, błędów lub funkcji, oraz przypisać je do konkretnego programisty. 
 
 ==Packaged Apps==
 Zestaw bezpłatych aplikacji gotowych do instalacji i bezpłatnego użytku. Wśród nich znajdują się aplikacje demonstracyjne, pokazujące możliwości środowiska APEX oraz pełnoprawne aplikacje biznesowe, które z powodzeniem mogą zostać wykorzystane w firmie.
