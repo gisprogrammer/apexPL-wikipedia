@@ -16,7 +16,7 @@
  | www                 = http://apex.oracle.com
 }}
 =Oracle Application Express= 
-(Oracle APEX, w poprzednich wersjach Oracle HTML-DB) – udostępniane przez firmę [[Oracle Corporation|Oracle]] darmowe środowisko do tworzenia [[Aplikacja internetowa|aplikacji internetowych]] w oparciu o [[baza danych|bazę danych]] Oracle począwszy od wersji 9.2. Środowisko dostępne jest bezpłatnie w ramach [[Licencja oprogramowania|licencji]] bazy danych Oracle.
+(Oracle APEX, w poprzednich wersjach Oracle HTML-DB) – udostępniane przez firmę [[Oracle Corporation|Oracle]] darmowe środowisko typu [[Low-code_development_platforms|Low-code development]] do tworzenia [[Aplikacja internetowa|aplikacji internetowych]] w oparciu o [[baza danych|bazę danych]] Oracle. Środowisko dostępne jest bezpłatnie w ramach [[Licencja oprogramowania|licencji]] bazy danych Oracle.
 
 Dzięki wykorzystaniu Oracle APEX możliwe jest tworzenie aplikacji internetowych bez znajomości języków [[HTML]], [[JavaScript]] oraz [[język programowania|języków]] i [[framework]]ów powszechnie wykorzystywanych do programowania logiki programu ([[PHP]], [[Java Platform, Enterprise Edition|Java EE]], [[.NET]], itp.). Application Express instalowany jest na bazie danych Oracle (także darmowej Oracle XE) zapewniając automatyczne połączenie pomiędzy aplikacją i bazą. Aplikacje publikowane są na wbudowanym w bazę [[serwer aplikacji|serwerze]] [[Apache HTTP Server|Apache]] lub serwerze użytkownika (oficjalnie wspierane są [[Oracle WebLogic|Weblogic]], [[Apache Tomcat|Tomcat]] i [[GlassFish|Glassfish]]) z zainstalowanym komponentem [[Oracle REST Database Services]].
 
